@@ -1,1 +1,1 @@
-# Prozessanalyse-mit-Six-Sigma
+# Prozessanalys mit Six-Sigma
